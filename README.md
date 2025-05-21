@@ -41,22 +41,26 @@ npm run dev
 ```
 
 5. Open your browser and go to:
+
 ```bash
 http://localhost:5173
 
 ```
 
-#### Features
+### Features
+
 Add, edit, delete todos
 
 Mark todos as complete/incomplete
 
-##### Technologies Used
+### Technologies Used
+
 React
 
 Vite
 
 FontAwesome for icons
 
-###### License
+### License
+
 This project is licensed under the MIT License.
