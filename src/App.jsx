@@ -5,7 +5,6 @@ import { TodoWrapper } from "./components/TodoWrapper";
 function App() {
   return (
     <div>
-      <h1> To Do List</h1>
       <TodoWrapper />
     </div>
   );
