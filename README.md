@@ -21,31 +21,42 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 2. Navigate to the project folder:
 
+```bash
 cd React-Todo-List
+
+```
 
 3. Install dependencies:
 
+```bash
 npm install
+
+```
 
 4. Run the development server:
 
+```bash
 npm run dev
 
-5. Open your browser and go to:
+```
 
+5. Open your browser and go to:
+```bash
 http://localhost:5173
 
-Features
+```
+
+#### Features
 Add, edit, delete todos
 
 Mark todos as complete/incomplete
 
-Technologies Used
+##### Technologies Used
 React
 
 Vite
 
 FontAwesome for icons
 
-License
+###### License
 This project is licensed under the MIT License.
